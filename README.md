@@ -4,7 +4,7 @@
 
 ## Screenshot - 專案畫面
 
-![MyImage]()
+![MyImage](https://github.com/newm1n/ac_restaurant_list/blob/main/public/images/%E6%88%AA%E5%9C%96%202023-03-19%20%E4%B8%8B%E5%8D%884.17.04.png)
 
 ## Features - 產品功能
 
